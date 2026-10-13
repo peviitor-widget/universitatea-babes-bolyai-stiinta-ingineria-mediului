@@ -7,48 +7,14 @@
       "Soseaua Fabrica de Glucoza 9B, 077190 Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:08:32.345Z",
+    "date": "2026-10-12T17:32:19.768Z",
     "status": "scraped",
     "tags": [
-      "inginerie de mediu",
-      "monitorizarea mediului"
+      "legislatie de mediu",
+      "rapoarte de mediu"
     ],
     "matchPercentage": 92,
-    "reason": "Inginer de mediu Junior într-o companie de mediu, nivel și domeniu direct potrivite."
-  },
-  {
-    "url": "https://makitajobs.ro/responsabil-mediu/",
-    "title": "Responsabil Mediu",
-    "company": "MAKITA EU SRL",
-    "location": [
-      "all, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:04:17.792Z",
-    "status": "scraped",
-    "tags": [
-      "audit de mediu",
-      "managementul deșeurilor"
-    ],
-    "matchPercentage": 90,
-    "reason": "Responsabil Mediu cu ISO 14001, deșeuri, audit și legislație de mediu, potrivire directă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-gestiunea-colectarea-deseurilor",
-    "title": "Responsabil gestiunea/colectarea deseurilor",
-    "company": "GREENTECH SERVICII ECOLOGICE SRL",
-    "location": [
-      "Lumina, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:00:51.543Z",
-    "status": "scraped",
-    "tags": [
-      "deșeuri",
-      "gestionare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Gestiunea și colectarea deșeurilor se potrivesc direct cu managementul deșeurilor."
+    "reason": "Inginer de mediu junior, potrivire directa pe domeniu si nivel."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-de-mediu-97",
@@ -58,82 +24,14 @@
       "Strada Atena, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:10:08.308Z",
+    "date": "2026-10-12T17:30:22.133Z",
     "status": "scraped",
     "tags": [
-      "managementul deșeurilor",
-      "legislație de mediu"
+      "managementul deseurilor",
+      "economia circulara"
     ],
-    "matchPercentage": 88,
-    "reason": "Responsabil de mediu într-o firmă de reciclare, folosește direct competențele de gestionare a deșeurilor și conformitate."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-tehnician-protectia-mediului-3",
-    "title": "Inginer / Tehnician Protecția Mediului",
-    "company": "WESSLING ROMANIA SRL",
-    "location": [
-      "Târgu Mureș, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:26:08.716Z",
-    "status": "scraped",
-    "tags": [
-      "prelevare probe",
-      "analiza laborator"
-    ],
-    "matchPercentage": 88,
-    "reason": "Inginer/tehnician protecția mediului la laborator de testare, potrivire directă."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
-    "title": "Responsabil activitati monitorizare Dunare",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:15:56.394Z",
-    "status": "scraped",
-    "tags": [
-      "monitorizarea apei",
-      "calitatea apei"
-    ],
-    "matchPercentage": 88,
-    "reason": "Monitorizarea apelor Dunării, potrivire directă pe monitorizarea calității apei."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-de-mediu-104",
-    "title": "Responsabil de mediu",
-    "company": "RECYCLE UNIVERSAL SRL",
-    "location": [
-      "Strada Valea Lunga 49, Sector 6, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:53:01.283Z",
-    "status": "scraped",
-    "tags": [
-      "management deșeuri",
-      "responsabil mediu"
-    ],
-    "matchPercentage": 88,
-    "reason": "Responsabil de mediu la o companie de reciclare, potrivire directă cu managementul deșeurilor și economia circulară."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-ssm-su-mediu-5",
-    "title": "Specialist SSM, SU, Mediu",
-    "company": "ADEPLAST S.R.L.",
-    "location": [
-      "Isalnita 207340, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:59:14.729Z",
-    "status": "scraped",
-    "tags": [
-      "legislatie mediu",
-      "management deseuri"
-    ],
-    "matchPercentage": 85,
-    "reason": "Responsabil de mediu cu autorizații, evidența deșeurilor și evaluarea riscurilor, potrivire directă pe competențe."
+    "matchPercentage": 90,
+    "reason": "Responsabil de mediu in companie de reciclare, potrivire directa pe deseuri si mediu."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3388454",
@@ -147,78 +45,10 @@
     "status": "scraped",
     "tags": [
       "protecția mediului",
-      "legislație de mediu"
+      "tehnologii mediu"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer tehnolog în protecția mediului, nivel sub 3 ani experiență, potrivire directă."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-tehnolog-in-protectia-mediului/5543",
-    "title": "Inginer tehnolog în protecția mediului",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:35:47.352Z",
-    "status": "scraped",
-    "tags": [
-      "protecția mediului",
-      "monitorizarea mediului"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer tehnolog în protecția mediului, potrivire directă de domeniu."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-prelevare-protectia-mediului-3",
-    "title": "Responsabil prelevare protectia mediului",
-    "company": "CP MED LABORATORY SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:17:02.128Z",
-    "status": "scraped",
-    "tags": [
-      "prelevare probe",
-      "monitorizarea mediului"
-    ],
-    "matchPercentage": 85,
-    "reason": "Responsabil prelevare probe de mediu, potrivire directă pe prelevare și monitorizare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3411495",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "BLACK SEA OIL &amp; GAS S.A.",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:53:59.494Z",
-    "status": "scraped",
-    "tags": [
-      "conformitate mediu",
-      "legislatie mediu"
-    ],
-    "matchPercentage": 84,
-    "reason": "Responsabil de mediu entry-level cu sub 3 ani experiență, potrivire directă pe conformitate și protecția mediului."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-in-domeniul-mediului",
-    "title": "Specialist in domeniul mediului",
-    "company": "ECO GEODRUM SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:04:52.768Z",
-    "status": "scraped",
-    "tags": [
-      "monitorizarea mediului",
-      "evaluarea impactului"
-    ],
-    "matchPercentage": 82,
-    "reason": "Specialist în domeniul mediului, aplicabil direct competențelor de monitorizare și conformitate."
+    "matchPercentage": 90,
+    "reason": "Inginer tehnolog în protecția mediului, nivel junior potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396176",
@@ -234,42 +64,127 @@
       "monitorizare",
       "analiza datelor"
     ],
-    "matchPercentage": 80,
-    "reason": "Asistent cercetare în ecologie și protecția mediului, fără experiență, potrivire bună."
+    "matchPercentage": 90,
+    "reason": "Domeniul de cercetare în ecologie și protecția mediului corespunde direct competențelor de monitorizare și analiză de mediu, iar nivelul este entry-level (fără experiență)."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/hse-specialist-specialist-ssm-si-mediu-1",
-    "title": "HSE Specialist ( Specialist SSM si Mediu)",
-    "company": "EUREX ALIMENTARE SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-prelevare-protectia-mediului-3",
+    "title": "Responsabil prelevare protectia mediului",
+    "company": "CP MED LABORATORY SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:53:30.863Z",
+    "date": "2026-10-12T17:27:25.539Z",
     "status": "scraped",
     "tags": [
-      "mediu",
-      "SSM"
+      "prelevare probe",
+      "monitorizare mediu"
     ],
-    "matchPercentage": 75,
-    "reason": "Specialist HSE/SSM și Mediu folosește direct competențe de mediu, siguranță și conformitate."
+    "matchPercentage": 88,
+    "reason": "Prelevare probe de mediu, folosește direct competențele de monitorizare."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3404255",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "AGRICOST S.A.",
+    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
+    "title": "Responsabil activitati monitorizare Dunare",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
     "location": [
-      "Pitești, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:55:35.100Z",
+    "date": "2026-10-12T17:25:42.222Z",
     "status": "scraped",
     "tags": [
-      "responsabil mediu",
-      "management deseuri"
+      "monitorizare mediu",
+      "ape"
     ],
-    "matchPercentage": 72,
-    "reason": "Responsabil de mediu, domeniu direct potrivit; experiența 3-5 ani e la limita superioară acceptată."
+    "matchPercentage": 86,
+    "reason": "Monitorizare activități Dunăre, direct pe monitorizarea mediului."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/2308",
+    "title": "Responsabil activitati monitorizare Dunare",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:25:42.222Z",
+    "status": "scraped",
+    "tags": [
+      "monitorizare mediu",
+      "ape"
+    ],
+    "matchPercentage": 86,
+    "reason": "Monitorizare activități Dunăre, direct pe monitorizarea mediului."
+  },
+  {
+    "url": "https://makitajobs.ro/responsabil-mediu/",
+    "title": "Responsabil Mediu",
+    "company": "MAKITA EU SRL",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:45.259Z",
+    "status": "scraped",
+    "tags": [
+      "managementul deșeurilor",
+      "aplicarea legislației de mediu"
+    ],
+    "matchPercentage": 85,
+    "reason": "Sarcinile includ legislația de mediu, managementul deșeurilor, auditul și conformitatea ISO 14001."
+  },
+  {
+    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
+    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:25:42.222Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare mediu",
+      "monitorizare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Cercetare în protecția mediului, nivel entry (ACS) accesibil."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-tehnician-protectia-mediului-3",
+    "title": "Inginer / Tehnician Protecția Mediului",
+    "company": "WESSLING ROMANIA SRL",
+    "location": [
+      "Târgu Mureș, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:26:08.716Z",
+    "status": "scraped",
+    "tags": [
+      "protecția mediului",
+      "monitorizare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Pozitia de inginer/tehnician protecția mediului utilizează direct competențele tehnice de specialitate și se încadrează în nivelul entry/junior."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/responsabil-gestiunea-colectarea-deseurilor",
+    "title": "Responsabil gestiunea/colectarea deseurilor",
+    "company": "GREENTECH SERVICII ECOLOGICE SRL",
+    "location": [
+      "Lumina, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:29:47.391Z",
+    "status": "scraped",
+    "tags": [
+      "deșeuri",
+      "gestionarea deșeurilor"
+    ],
+    "matchPercentage": 80,
+    "reason": "Gestionarea și colectarea deșeurilor corespunde direct domeniului de deșeuri și economie circulară, nivelul fiind potrivit pentru entry/junior."
   },
   {
     "url": "https://jobs-cee.pwc.com/ce/en/job/752475WD",
@@ -282,62 +197,11 @@
     "date": "2026-10-10T14:38:22.743Z",
     "status": "scraped",
     "tags": [
-      "ESG",
-      "sustenabilitate"
+      "raportare ESG",
+      "audit de mediu"
     ],
-    "matchPercentage": 72,
-    "reason": "Consultant sustenabilitate ESG, acceptă studii în știința mediului și vizează reglementări ESG."
-  },
-  {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:37:47.352Z",
-    "status": "scraped",
-    "tags": [
-      "monitorizarea mediului",
-      "cercetare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Cercetător cu niveluri de intrare (ACS/CS), cercetare în protecția mediului."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
-    "title": "IMS Specialist (ISO 9001,14001,45001)",
-    "company": "SSE EXPLO ROMANIA SRL",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:57:37.435Z",
-    "status": "scraped",
-    "tags": [
-      "ISO 14001",
-      "management mediu"
-    ],
-    "matchPercentage": 70,
-    "reason": "Specialist IMS pentru ISO 14001 implică implementarea sistemului de management de mediu, domeniu direct relevant."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-ssm-psi-esg-analist",
-    "title": "Specialist ( SSM ), ( PSI ), ESG analist",
-    "company": "CARREMAN ROMANIA SRL",
-    "location": [
-      "BOTOSANI CALEA NATIONALA 30, Botosani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:49:33.411Z",
-    "status": "scraped",
-    "tags": [
-      "ESG",
-      "raportare sustenabilitate"
-    ],
-    "matchPercentage": 70,
-    "reason": "Analist ESG și specialist SSM, folosește direct competențe de raportare de sustenabilitate."
+    "matchPercentage": 76,
+    "reason": "Consultant sustenabilitate/ESG care cere studii de mediu, aliniat raportării ESG și legislației de mediu."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/coordonator-suport-audit-iso-junior-auditor-iso",
@@ -350,28 +214,96 @@
     "date": "2026-10-11T15:06:03.705Z",
     "status": "scraped",
     "tags": [
-      "audit mediu",
-      "management conformitate"
+      "audit de mediu",
+      "management de conformitate"
     ],
-    "matchPercentage": 65,
-    "reason": "Auditor junior pe sisteme de management ISO, apropiat de auditul de conformitate și management, dar poate fi orientat preponderent pe calitate."
+    "matchPercentage": 75,
+    "reason": "Auditor ISO junior, folosește direct competențele de audit de mediu și management de conformitate la nivel de început."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/analist-calitate-142",
-    "title": "Analist laborator managementul calitatii",
-    "company": "NEVEON ROMANIA S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
+    "title": "IMS Specialist (ISO 9001,14001,45001)",
+    "company": "SSE EXPLO ROMANIA SRL",
     "location": [
-      "Sibiu, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:19:38.860Z",
+    "date": "2026-10-11T14:57:37.435Z",
     "status": "scraped",
     "tags": [
-      "analiză laborator",
-      "management calitate"
+      "management de mediu",
+      "management de conformitate"
     ],
-    "matchPercentage": 62,
-    "reason": "Post de analist de laborator care valorifică direct competențele de analiză a probelor și management al calității, cu potrivire parțială pe componenta de mediu."
+    "matchPercentage": 74,
+    "reason": "Specialist IMS pentru ISO 14001, implică direct sisteme de management de mediu și conformitate, la nivel potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/operator-receptie-si-cantarire-deseuri",
+    "title": "Operator recepție și cântărire deșeuri",
+    "company": "CURAT RAPID GROUP SRL",
+    "location": [
+      "Sacosu Turcesc, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:06:57.661Z",
+    "status": "scraped",
+    "tags": [
+      "managementul deșeurilor",
+      "trasabilitate deșeuri"
+    ],
+    "matchPercentage": 72,
+    "reason": "Operator de recepție și cântărire deșeuri, rol entry-level care aplică direct managementul și trasabilitatea fluxurilor de deșeuri."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-ssm-su-mediu-5",
+    "title": "Specialist SSM, SU, Mediu",
+    "company": "ADEPLAST S.R.L.",
+    "location": [
+      "Isalnita 207340, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T14:59:14.729Z",
+    "status": "scraped",
+    "tags": [
+      "legislația de mediu",
+      "managementul deșeurilor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Specialist Mediu responsabil de autorizații, evidența deșeurilor și legislația de mediu, potrivit competențelor tehnice."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
+    "title": "Specialist Managementul Energiei",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:10:13.716Z",
+    "status": "scraped",
+    "tags": [
+      "eficiență energetică",
+      "surse regenerabile"
+    ],
+    "matchPercentage": 70,
+    "reason": "Managementul energiei se potrivește parțial cu eficiența energetică și surse regenerabile, dar sarcinile nu sunt detaliate; nivelul pare acceptabil pentru junior."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/responsabil-iso-atestate-anre-qz54vz",
+    "title": "Responsabil ISO &amp; Atestate ANRE",
+    "company": "GENERAL ELECTRO PROEXIM SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:10:10.590Z",
+    "status": "scraped",
+    "tags": [
+      "legislația de mediu",
+      "management de conformitate"
+    ],
+    "matchPercentage": 68,
+    "reason": "Responsabil ISO care aplică legislația și managementul de conformitate, nivel potrivit începătorilor."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/auditor-sisteme-de-management-iso",
@@ -384,44 +316,61 @@
     "date": "2026-10-11T14:51:11.279Z",
     "status": "scraped",
     "tags": [
-      "audit mediu",
-      "ISO"
+      "audit de mediu",
+      "management de conformitate"
     ],
-    "matchPercentage": 60,
-    "reason": "Auditor sisteme de management ISO, relevant pentru auditul de conformitate, dar cere 2 ani experiență în producție."
+    "matchPercentage": 65,
+    "reason": "Auditor de sisteme de management (inclusiv ISO 14001) cu cerință de minim 2 ani experiență, încadrat la nivel junior/mid."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-executie-energie-regenerabila/97979",
-    "title": "Inginer Executie Energie Regenerabila",
-    "company": "IMSAT BIHOR SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-santier-energie-regenerabila",
+    "title": "Inginer Santier Energie Regenerabila",
+    "company": "RENEWABLE CONNECT PROJECT S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Mircea Voda, Romania,Topalu, Romania,Cernavoda, Romania,Medgidia, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:54:47.195Z",
+    "date": "2026-10-12T17:34:00.066Z",
     "status": "scraped",
     "tags": [
       "surse regenerabile",
-      "eficiență energetică"
+      "dezvoltare sustenabila"
     ],
-    "matchPercentage": 60,
-    "reason": "Se leagă parțial prin sursele regenerabile, dar sarcinile principale sunt execuție electrică."
+    "matchPercentage": 65,
+    "reason": "Inginer șantier în energie regenerabilă, aliniat competențelor de surse regenerabile și sustenabilitate."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-energie-regenerabila-1",
-    "title": "Inginer energie regenerabilă",
-    "company": "ENERPROD SYSTEM SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/health-safety-officer-ssm-mediu-2",
+    "title": "Health &amp; Safety Officer (SSM &amp; Mediu)",
+    "company": "HOLLEMAN HEAVY LIFT, INDUSTRIAL TRANSFER &amp; MOUNTING SRL",
     "location": [
-      "Sector 1 Bucuresti, Romania"
+      "Jilava, Romania,Soseaua de Centura, 29, Jilava 077120, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:44:07.516Z",
+    "date": "2026-10-12T17:32:12.704Z",
     "status": "scraped",
     "tags": [
-      "surse regenerabile",
-      "eficiență energetică"
+      "evaluarea riscurilor",
+      "conformitate de mediu"
     ],
-    "matchPercentage": 60,
-    "reason": "Inginer energie regenerabilă, potrivire parțială pe competența de surse regenerabile."
+    "matchPercentage": 62,
+    "reason": "Responsabil SSM si mediu, componenta de conformitate de mediu se potriveste partial."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-ssm-psi-esg-analist",
+    "title": "Specialist ( SSM ), ( PSI ), ESG analist",
+    "company": "CARREMAN ROMANIA SRL",
+    "location": [
+      "BOTOSANI CALEA NATIONALA 30, Botosani, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:51.001Z",
+    "status": "scraped",
+    "tags": [
+      "raportare ESG",
+      "legislatie mediu"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol hibrid SSM/PSI cu componentă de analist ESG, parțial în domeniul raportării de sustenabilitate."
   }
 ]
