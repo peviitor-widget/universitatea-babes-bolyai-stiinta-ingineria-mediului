@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3415270",
+    "title": "OPERATOR INSTALATIE DE SORTARE SI RECICLARE DESEURI MENAJERE SI ASIMILABILE",
+    "company": "VIVANI SALUBRITATE SA",
+    "location": [
+      "Slobozia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:07.811Z",
+    "status": "scraped",
+    "tags": [
+      "managementul deșeurilor",
+      "reciclarea deșeurilor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Lucrezi direct cu sortarea și reciclarea deșeurilor menajere, un domeniu central al competențelor tale (managementul deșeurilor, economia circulară), dar la nivel operațional de operator."
+  }
+]
