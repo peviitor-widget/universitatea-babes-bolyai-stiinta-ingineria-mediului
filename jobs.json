@@ -1,20 +1,200 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3415270",
-    "title": "OPERATOR INSTALATIE DE SORTARE SI RECICLARE DESEURI MENAJERE SI ASIMILABILE",
-    "company": "VIVANI SALUBRITATE SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419324",
+    "title": "Inginer tehnolog în protecția mediului",
+    "company": "OIL TERMINAL SA",
     "location": [
-      "Slobozia",
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:07.811Z",
+    "date": "2026-10-17T12:22:38.251Z",
     "status": "scraped",
     "tags": [
-      "managementul deșeurilor",
-      "reciclarea deșeurilor"
+      "protecția mediului",
+      "management de mediu"
     ],
-    "matchPercentage": 65,
-    "reason": "Lucrezi direct cu sortarea și reciclarea deșeurilor menajere, un domeniu central al competențelor tale (managementul deșeurilor, economia circulară), dar la nivel operațional de operator."
+    "matchPercentage": 90,
+    "reason": "Titlul și responsabilitățile vizează direct protecția mediului, cu nivel entry-level (0 ani experiență)."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
+    "title": "Tehnician analize de mediu",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:26.394Z",
+    "status": "scraped",
+    "tags": [
+      "monitorizarea calității mediului",
+      "analiza probelor de mediu"
+    ],
+    "matchPercentage": 88,
+    "reason": "Tehnician de analize de mediu - rol direct în monitorizarea și analiza calității mediului, la nivel de intrare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
+    "title": "AUDITOR DE MEDIU",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:13.624Z",
+    "status": "scraped",
+    "tags": [
+      "audit de mediu",
+      "management de conformitate"
+    ],
+    "matchPercentage": 85,
+    "reason": "Auditor de mediu cu cerință de experiență <3 ani - potrivire directă de domeniu și nivel."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/project-manager-energie-regenerabila/97980",
+    "title": "Project Manager Energie Regenerabila",
+    "company": "IMSAT BIHOR SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:36.663Z",
+    "status": "scraped",
+    "tags": [
+      "GIS și analiza spațială",
+      "proiectare sisteme apă"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de Responsabil GIS într-o companie de apă, folosind direct competențele de GIS și analiza spațială a datelor de mediu plus sisteme de alimentare cu apă."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
+    "title": "Analist Raportare Financiară – Ploiești",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:41.422Z",
+    "status": "scraped",
+    "tags": [
+      "raportare sustenabilitate",
+      "audit de mediu"
+    ],
+    "matchPercentage": 82,
+    "reason": "Consultanță ESG cu accent pe componente de reglementare de mediu și durabilitate, aliniat direct cu raportarea de sustenabilitate și managementul de conformitate."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-calitate-ssm-si-mediu-qhse/99250042",
+    "title": "Inginer Calitate SSM și Mediu (QHSE)",
+    "company": "FLEXIBLE HR S.R.L.",
+    "location": [
+      "Balotesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:45.159Z",
+    "status": "scraped",
+    "tags": [
+      "audit de mediu",
+      "management de conformitate"
+    ],
+    "matchPercentage": 78,
+    "reason": "Inginer QHSE - administrare ISO 14001, audituri interne și conformitate de mediu, potrivit pentru nivel junior/mid."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
+    "location": [
+      "Ramnicu Valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:44.916Z",
+    "status": "scraped",
+    "tags": [
+      "evaluarea riscului de mediu",
+      "protecția mediului"
+    ],
+    "matchPercentage": 72,
+    "reason": "Specialist SSM, SU și Mediu - combină evaluarea riscului, situațiile de urgență și protecția mediului, experiența e doar avantaj."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
+    "title": "IMS Specialist (ISO 9001,14001,45001)",
+    "company": "SSE EXPLO ROMANIA SRL",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:36.058Z",
+    "status": "scraped",
+    "tags": [
+      "audit de mediu",
+      "conformitate"
+    ],
+    "matchPercentage": 72,
+    "reason": "Sisteme de management integrat cu ISO 14001, direct relevant pentru auditul de mediu și managementul de conformitate."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:05.993Z",
+    "status": "scraped",
+    "tags": [
+      "audit de mediu",
+      "legislație de mediu"
+    ],
+    "matchPercentage": 68,
+    "reason": "Responsabil de mediu - domeniul se potrivește (conformitate, protecția mediului), dar nivelul exact nu este specificat."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
+    "title": "EXPERT IMPLEMENTARE",
+    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:01.168Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte europene",
+      "management proiecte"
+    ],
+    "matchPercentage": 68,
+    "reason": "Monitorizarea și verificarea documentelor proiectelor cu finanțare europeană intră în managementul proiectelor cu finanțare europeană."
+  },
+  {
+    "url": "https://jobs-cee.pwc.com/ce/en/job/744604WD",
+    "title": "ESG Manager/Senior Manager for Financial Institutions    (Consulting &amp; Audit)",
+    "company": "HANDRA PWC S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:26.488Z",
+    "status": "scraped",
+    "tags": [
+      "raportare sustenabilitate",
+      "audit de mediu"
+    ],
+    "matchPercentage": 68,
+    "reason": "Asigurare ESG și raportare de sustenabilitate se potrivește parțial, dar rolul Senior Consultant/Associate necesită experiență de auditor."
   }
 ]
