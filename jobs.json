@@ -1,113 +1,5 @@
 [
   {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:26.394Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de mediu",
-      "monitorizare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Rolul de tehnician de analize de mediu folosește direct competențele de analiză și monitorizare a calității mediului la nivel junior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
-    "title": "AUDITOR DE MEDIU",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:13.624Z",
-    "status": "scraped",
-    "tags": [
-      "audit de mediu",
-      "conformitate"
-    ],
-    "matchPercentage": 90,
-    "reason": "Rolul de auditor de mediu folosește direct competențe de audit și legislație de mediu, cu experiență solicitată sub 3 ani."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3309938",
-    "title": "LUCRATOR SORTATOR DESEURI RECICLABILE",
-    "company": "SOMA S.R.L.",
-    "location": [
-      "Rusciori",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:14.906Z",
-    "status": "scraped",
-    "tags": [
-      "managementul deșeurilor",
-      "reciclare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Sortarea deșeurilor reciclabile se potrivește direct cu managementul deșeurilor și economia circulară."
-  },
-  {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:07:28.140Z",
-    "status": "scraped",
-    "tags": [
-      "gis",
-      "proiectarea sistemelor de apă"
-    ],
-    "matchPercentage": 90,
-    "reason": "Responsabilitățile GIS și infrastructura de apă se potrivesc direct cu competențele de specialitate."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:05.993Z",
-    "status": "scraped",
-    "tags": [
-      "management de mediu",
-      "protecția mediului"
-    ],
-    "matchPercentage": 85,
-    "reason": "Domeniul de responsabil de mediu este direct relevant, iar nivelul de responsabilitate nu impune experiență îndelungată conform descrierii."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:15.586Z",
-    "status": "scraped",
-    "tags": [
-      "management de mediu",
-      "protecția mediului"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziția de responsabil de mediu este direct relevantă pentru profil și nu cere experiență îndelungată conform informațiilor disponibile."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3419324",
     "title": "Inginer tehnolog în protecția mediului",
     "company": "OIL TERMINAL SA",
@@ -119,11 +11,11 @@
     "date": "2026-10-17T12:22:38.251Z",
     "status": "scraped",
     "tags": [
-      "protecția mediului",
-      "legislație de mediu"
+      "protecție",
+      "legislație"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer tehnolog în protecția mediului, nivel entry-level (0 ani experiență), folosește direct competențele de monitorizare și legislație de mediu."
+    "matchPercentage": 95,
+    "reason": "Rol de inginer tehnolog în protecția mediului, 0 ani experiență, direct relevant pentru domeniu."
   },
   {
     "url": "https://jobs-cee.pwc.com/ce/en/job/752475WD",
@@ -137,65 +29,47 @@
     "date": "2026-10-17T12:16:07.946Z",
     "status": "scraped",
     "tags": [
-      "dezvoltare sustenabilă",
-      "raportare de sustenabilitate"
+      "raportare de sustenabilitate",
+      "audit de mediu"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultant ESG cu focus pe reglementări de mediu și sustenabilitate."
+  },
+  {
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
+    "location": [
+      "Buzau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:28.140Z",
+    "status": "scraped",
+    "tags": [
+      "GIS",
+      "apă și canalizare"
+    ],
+    "matchPercentage": 88,
+    "reason": "GIS aplicat pentru sisteme de apă și canalizare, direct relevant."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-executie-energie-regenerabila/97979",
+    "title": "Inginer Executie Energie Regenerabila",
+    "company": "IMSAT BIHOR SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:36.663Z",
+    "status": "scraped",
+    "tags": [
+      "surse regenerabile",
+      "proiectare"
     ],
     "matchPercentage": 85,
-    "reason": "Postul se potrivește direct cu dezvoltarea sustenabilă și raportarea ESG."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
-    "title": "IMS Specialist (ISO 9001,14001,45001)",
-    "company": "SSE EXPLO ROMANIA SRL",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:36.058Z",
-    "status": "scraped",
-    "tags": [
-      "audit de mediu",
-      "management de conformitate"
-    ],
-    "matchPercentage": 82,
-    "reason": "Specialist IMS cu ISO 14001 — potrivit direct cu managementul de conformitate și auditul de mediu, la nivel entry."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-calitate-ssm-si-mediu-qhse/99250042",
-    "title": "Inginer Calitate SSM și Mediu (QHSE)",
-    "company": "FLEXIBLE HR S.R.L.",
-    "location": [
-      "Balotesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:12:45.159Z",
-    "status": "scraped",
-    "tags": [
-      "audit de mediu",
-      "conformitate"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rolul include aspecte de mediu (ISO14001, conformitate legală), dar este mixt QHSE; nivelul de inginer este acceptabil pentru absolvent."
-  },
-  {
-    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
-    "title": "Analyst Mediu/Calitate",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:41.964Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de mediu",
-      "conformitate"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rolul combină mediu și calitate; componenta de mediu este prezentă parțial, dar nivelul analyst este potrivit pentru junior/mid."
+    "reason": "Inginerie pentru proiecte regenerabile, relevant pentru mediu."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
@@ -212,62 +86,26 @@
       "eficiență energetică",
       "surse regenerabile"
     ],
-    "matchPercentage": 70,
-    "reason": "Managementul energiei se potrivește parțial cu eficiența energetică și sursele regenerabile."
+    "matchPercentage": 75,
+    "reason": "Gestionarea eficienței energetice într-un mediu industrial se suprapune direct peste competența de eficiență energetică în industrie, iar nivelul de specialist este potrivit pentru entry/mid."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
+    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
+    "title": "IMS Specialist (ISO 9001,14001,45001)",
+    "company": "SSE EXPLO ROMANIA SRL",
     "location": [
-      "Ramnicu Valcea",
+      "Remote",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:06:44.916Z",
+    "date": "2026-10-17T12:08:36.058Z",
     "status": "scraped",
     "tags": [
-      "protecția mediului",
-      "management de mediu"
+      "audit de mediu",
+      "management de conformitate"
     ],
-    "matchPercentage": 65,
-    "reason": "Domeniul include protecția mediului, dar este mixt SSM/SU/mediu; sarcinile de mediu sunt parțiale față de competențele tehnice dorite."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-executie-energie-regenerabila/97979",
-    "title": "Inginer Executie Energie Regenerabila",
-    "company": "IMSAT BIHOR SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:36.663Z",
-    "status": "scraped",
-    "tags": [
-      "surse regenerabile",
-      "eficiență energetică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Se potrivește parțial cu eficiența energetică și surse regenerabile, dar sarcinile sunt predominant electrice."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3418246",
-    "title": "INGINER ENERGETICA INDUSTRIALA",
-    "company": "OIL TERMINAL SA",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:02:30.581Z",
-    "status": "scraped",
-    "tags": [
-      "eficiență energetică",
-      "analiza datelor"
-    ],
-    "matchPercentage": 65,
-    "reason": "Se potrivește parțial cu analiza sistemelor energetice, dar nu folosește direct competențele de monitorizare a mediului."
+    "matchPercentage": 68,
+    "reason": "Gestiunea sistemelor integrate ISO 14001/45001 se potrivește cu auditul de mediu și managementul de conformitate, la nivel entry-level."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
@@ -281,10 +119,10 @@
     "date": "2026-10-17T12:19:01.168Z",
     "status": "scraped",
     "tags": [
-      "management proiecte europene",
-      "documentare tehnică"
+      "proiecte cu finanțare europeană",
+      "documentare de proiect"
     ],
-    "matchPercentage": 64,
-    "reason": "Verificarea și monitorizarea proiectelor cu finanțare se potrivește parțial cu managementul proiectelor europene, dar implică mai ales achiziții publice."
+    "matchPercentage": 62,
+    "reason": "Verificarea și monitorizarea proiectelor cu finanțare europeană folosește direct competența de management al proiectelor cu finanțare, la nivel entry cu 1 an experiență."
   }
 ]
