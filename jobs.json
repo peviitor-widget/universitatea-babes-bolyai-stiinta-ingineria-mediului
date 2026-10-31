@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
-    "status": "scraped",
-    "tags": [
-      "managementul deșeurilor",
-      "economie circulară"
-    ],
-    "matchPercentage": 92,
-    "reason": "Working student în managementul deșeurilor, potrivire directă cu competențele tehnice."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
     "title": "AUDITOR DE MEDIU",
     "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
@@ -29,10 +12,10 @@
     "status": "scraped",
     "tags": [
       "audit de mediu",
-      "legislație de mediu"
+      "management de conformitate"
     ],
     "matchPercentage": 88,
-    "reason": "Auditor de mediu pentru candidați cu mai puțin de 3 ani experiență, domeniu direct."
+    "reason": "Auditor de mediu cu experiență sub 3 ani, potrivire directă pe domeniu și nivel."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -46,29 +29,65 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "analiza probelor",
-      "monitorizarea mediului"
+      "analiza datelor de mediu",
+      "prelevarea probelor"
     ],
     "matchPercentage": 85,
-    "reason": "Tehnician în analize de mediu, cu activitate directă de laborator și monitorizare."
+    "reason": "Tehnician analize de mediu cu sarcini directe de analiză și prelevare de probe."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
-    "title": "IMS Specialist (ISO 9001,14001,45001)",
-    "company": "SSE EXPLO ROMANIA SRL",
+    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
+    "title": "Analyst Mediu/Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Remote",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:08:36.058Z",
+    "date": "2026-10-17T12:05:41.964Z",
     "status": "scraped",
     "tags": [
-      "audit de mediu",
+      "analiza datelor de mediu",
+      "calitatea mediului"
+    ],
+    "matchPercentage": 80,
+    "reason": "Analyst mediu/calitate cu sarcini de analiză și interpretare a datelor de mediu."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:05.993Z",
+    "status": "scraped",
+    "tags": [
+      "legislație de mediu",
       "management de conformitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Specialist IMS cu ISO 14001 implică direct audit de mediu și management de conformitate, la un nivel profesional potrivit."
+    "matchPercentage": 78,
+    "reason": "Responsabil de mediu, rol de conformitate și legislație de mediu la nivel adecvat."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:15.586Z",
+    "status": "scraped",
+    "tags": [
+      "legislație de mediu",
+      "management de conformitate"
+    ],
+    "matchPercentage": 78,
+    "reason": "Responsabil de mediu, rol de conformitate și legislație de mediu la nivel adecvat."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-calitate-ssm-si-mediu-qhse/99250042",
@@ -85,8 +104,8 @@
       "audit de mediu",
       "management de conformitate"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginer QHSE cu responsabilități substanțiale de mediu, audit și conformitate ISO 14001."
+    "matchPercentage": 75,
+    "reason": "Inginer QHSE cu atribuții de mediu, audit și conformitate ISO 14001."
   },
   {
     "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
@@ -101,64 +120,46 @@
     "status": "scraped",
     "tags": [
       "GIS",
-      "analiză spațială"
+      "analiza spațială"
     ],
-    "matchPercentage": 82,
-    "reason": "Rol GIS în companie de apă, cu aplicare directă a analizei spațiale a datelor de mediu."
+    "matchPercentage": 75,
+    "reason": "Rol GIS într-o companie de apă, cu aplicare directă a analizei spațiale și datelor de mediu."
   },
   {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
     "location": [
-      "Oradea",
+      "Ramnicu Valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:05.993Z",
+    "date": "2026-10-17T12:06:44.916Z",
     "status": "scraped",
     "tags": [
-      "management de mediu",
-      "conformitate"
+      "evaluarea riscurilor de mediu",
+      "managementul dezastrelor"
     ],
-    "matchPercentage": 80,
-    "reason": "Responsabil de mediu cu atribuții directe de conformitate și protecția mediului."
+    "matchPercentage": 70,
+    "reason": "Specialist SSM, SU și mediu, cu potrivire parțială pe legislație și riscuri de mediu."
   },
   {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
+    "title": "IMS Specialist (ISO 9001,14001,45001)",
+    "company": "SSE EXPLO ROMANIA SRL",
     "location": [
-      "Oradea",
+      "Remote",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:06:15.586Z",
+    "date": "2026-10-17T12:08:36.058Z",
     "status": "scraped",
     "tags": [
-      "management de mediu",
-      "conformitate"
+      "audit de mediu",
+      "management de conformitate"
     ],
-    "matchPercentage": 80,
-    "reason": "Responsabil de mediu cu atribuții directe de conformitate și protecția mediului."
-  },
-  {
-    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
-    "title": "Analyst Mediu/Calitate",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:41.964Z",
-    "status": "scraped",
-    "tags": [
-      "analiza datelor",
-      "monitorizarea mediului"
-    ],
-    "matchPercentage": 78,
-    "reason": "Analist mediu/calitate, cu aplicare directă a analizei datelor de mediu."
+    "matchPercentage": 70,
+    "reason": "Specialistul IMS aplică ISO 14001 și managementul integrat, acoperind parțial auditul și conformitatea de mediu la nivel potrivit."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
@@ -176,6 +177,6 @@
       "surse regenerabile"
     ],
     "matchPercentage": 65,
-    "reason": "Rol de management energetic industrial, relevant parțial prin eficiența energetică și sursele regenerabile."
+    "reason": "Managementul energiei industriale se potrivește parțial prin competențele de eficiență energetică și surse regenerabile."
   }
 ]
