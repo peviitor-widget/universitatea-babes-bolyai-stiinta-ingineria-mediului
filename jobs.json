@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "analiza mediu",
-      "prelevare probe"
+      "monitorizare mediu",
+      "analiza probe"
     ],
-    "matchPercentage": 82,
-    "reason": "Tehnician analize de mediu, aplica direct prelevarea si analiza probelor de mediu."
+    "matchPercentage": 85,
+    "reason": "Tehnician analize de mediu potrivit direct pentru monitorizare și analiza probelor."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
@@ -32,44 +32,26 @@
       "audit mediu",
       "conformitate"
     ],
+    "matchPercentage": 85,
+    "reason": "Auditor de mediu cu experiență sub 3 ani, folosește direct competențele de audit și conformitate."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-calitate-ssm-si-mediu-qhse/99250042",
+    "title": "Inginer Calitate SSM și Mediu (QHSE)",
+    "company": "FLEXIBLE HR S.R.L.",
+    "location": [
+      "Balotesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:45.159Z",
+    "status": "scraped",
+    "tags": [
+      "audit mediu",
+      "evaluare risc"
+    ],
     "matchPercentage": 80,
-    "reason": "Auditor de mediu cu sub 3 ani experienta, foloseste direct auditul si conformitatea de mediu."
-  },
-  {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:07:28.140Z",
-    "status": "scraped",
-    "tags": [
-      "GIS",
-      "analiza spațială"
-    ],
-    "matchPercentage": 78,
-    "reason": "Post GIS în departamentul tehnic al unei companii de apă, folosește direct competențele de GIS și analiză spațială."
-  },
-  {
-    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
-    "title": "Analyst Mediu/Calitate",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:41.964Z",
-    "status": "scraped",
-    "tags": [
-      "analiza mediu",
-      "monitorizare calitate"
-    ],
-    "matchPercentage": 76,
-    "reason": "Analist mediu/calitate, aplica analiza si monitorizarea datelor de mediu."
+    "reason": "Inginer QHSE gestionează ISO 14001, audituri și riscuri de mediu, potrivit profilului."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
@@ -86,8 +68,26 @@
       "audit de mediu",
       "management de conformitate"
     ],
+    "matchPercentage": 78,
+    "reason": "Specialist sisteme integrate de management cu ISO 14001, direct relevant pentru audit și conformitate de mediu."
+  },
+  {
+    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
+    "title": "Analyst Mediu/Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:41.964Z",
+    "status": "scraped",
+    "tags": [
+      "analiza mediu",
+      "calitate"
+    ],
     "matchPercentage": 75,
-    "reason": "Specialist IMS acoperind ISO 14001 (management de mediu) și ISO 45001 (siguranță), potrivit pentru nivel junior/mid, cu domeniu parțial suprapus peste auditul și conformitatea de mediu."
+    "reason": "Analist mediu/calitate implică interpretarea datelor de mediu și controlul calității."
   },
   {
     "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
@@ -101,11 +101,11 @@
     "date": "2026-10-17T12:15:05.993Z",
     "status": "scraped",
     "tags": [
-      "conformitate mediu",
-      "management mediu"
+      "legislatie mediu",
+      "conformitate"
     ],
-    "matchPercentage": 72,
-    "reason": "Responsabil de mediu, rol de conformitate si management de mediu potrivit incepatorilor."
+    "matchPercentage": 70,
+    "reason": "Responsabil de mediu orientat pe conformitate și legislație de mediu, nivel accesibil."
   },
   {
     "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
@@ -119,29 +119,47 @@
     "date": "2026-10-17T12:06:15.586Z",
     "status": "scraped",
     "tags": [
-      "conformitate mediu",
-      "management mediu"
+      "legislatie mediu",
+      "conformitate"
     ],
-    "matchPercentage": 72,
-    "reason": "Responsabil de mediu, sarcini de conformitate si gestionare a mediului."
+    "matchPercentage": 70,
+    "reason": "Responsabil de mediu pe conformitate și legislație, domeniu direct relevant."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-calitate-ssm-si-mediu-qhse/99250042",
-    "title": "Inginer Calitate SSM și Mediu (QHSE)",
-    "company": "FLEXIBLE HR S.R.L.",
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
     "location": [
-      "Balotesti",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:12:45.159Z",
+    "date": "2026-10-17T12:07:28.140Z",
     "status": "scraped",
     "tags": [
-      "audit mediu",
-      "management mediu"
+      "GIS",
+      "cartografie"
     ],
     "matchPercentage": 70,
-    "reason": "Inginer QHSE cu ISO 14001, audit si conformitate de mediu, potrivit nivelului de inceput."
+    "reason": "Rol de GIS în departamentul tehnic al unei companii de apă și canalizare, potrivit competentelor GIS și cartografie aplicate infrastructurii de mediu."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
+    "location": [
+      "Ramnicu Valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:44.916Z",
+    "status": "scraped",
+    "tags": [
+      "evaluare risc",
+      "management dezastre"
+    ],
+    "matchPercentage": 65,
+    "reason": "Specialist SSM/SU/Mediu acoperă parțial siguranța și managementul situațiilor de urgență."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
@@ -158,8 +176,8 @@
       "eficiență energetică",
       "surse regenerabile"
     ],
-    "matchPercentage": 65,
-    "reason": "Managementul energiei industriale valorifică competențele de eficiență energetică și sustenabilitate, nivel adecvat."
+    "matchPercentage": 62,
+    "reason": "Specialist managementul energiei în industrie, se potrivește parțial cu competențele de eficiență energetică și surse regenerabile."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
@@ -174,27 +192,9 @@
     "status": "scraped",
     "tags": [
       "finanțare europeană",
-      "monitorizare proiecte"
+      "documentare tehnică"
     ],
     "matchPercentage": 62,
-    "reason": "Verificarea și monitorizarea proiectelor cu finanțare europeană folosește direct competențele de management al proiectelor, deși sectorul este sănătatea, nu mediul."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
-    "location": [
-      "Ramnicu Valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:44.916Z",
-    "status": "scraped",
-    "tags": [
-      "conformitate mediu",
-      "SSM"
-    ],
-    "matchPercentage": 60,
-    "reason": "Rol SSM/urgente/mediu, potrivire partiala prin componenta de mediu si conformitate."
+    "reason": "Implementare/monitorizare proiecte cu finanțare, potrivit parțial pentru competența de management al proiectelor europene."
   }
 ]
