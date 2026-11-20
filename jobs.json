@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437176",
+    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
+    "company": "ASOCIATIA IRCEM",
+    "location": [
+      "CLUJ-NAPOCA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "monitorizare mediu",
+      "biodiversitate"
+    ],
+    "matchPercentage": 95,
+    "reason": "Cercetător în ecologie și protecția mediului, fără experiență, cu monitorizarea aerului, apei, solului și analiza datelor."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
+    "title": "Tehnician analize de mediu",
+    "company": "LAJEDO SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:21:40Z",
+    "status": "tested",
+    "tags": [
+      "prelevare probe",
+      "analiză date"
+    ],
+    "matchPercentage": 88,
+    "reason": "Tehnician analize de mediu folosește direct prelevarea probelor și analiza datelor de mediu în laborator."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
     "title": "AUDITOR DE MEDIU",
     "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
@@ -14,26 +50,26 @@
       "audit mediu",
       "conformitate"
     ],
-    "matchPercentage": 92,
-    "reason": "Auditorul de mediu aplică direct auditul de mediu și managementul conformității, cu sub 3 ani experiență."
+    "matchPercentage": 88,
+    "reason": "Auditor de mediu cu studii universitare și sub 3 ani experiență, folosind direct auditul și conformitatea de mediu."
   },
   {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "LAJEDO SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3442281",
+    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
+    "company": "ASOCIATIA IRCEM",
     "location": [
-      "Ploiesti",
+      "CLUJ-NAPOCA",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:21:40Z",
-    "status": "tested",
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
     "tags": [
-      "analiza mediu",
-      "prelevare probe"
+      "economie circulară",
+      "sustenabilitate"
     ],
-    "matchPercentage": 90,
-    "reason": "Tehnicianul analize de mediu folosește direct prelevarea probelor și analiza datelor în laborator."
+    "matchPercentage": 88,
+    "reason": "Cercetare în protecția mediului la nivel de master, fără experiență, pe economie circulară și sustenabilitate."
   },
   {
     "url": "https://makitajobs.ro/responsabil-mediu/",
@@ -50,8 +86,8 @@
       "legislație mediu",
       "management deșeuri"
     ],
-    "matchPercentage": 88,
-    "reason": "Rolul implică direct conformitate legislativă, raportări de mediu, managementul deșeurilor și audit, în concordanță cu competențele de specialitate."
+    "matchPercentage": 85,
+    "reason": "Sarcinile vizează direct conformitatea cu legislația de mediu, raportările către APM, gestionarea deșeurilor și auditurile ISO 14001, iar nivelul de responsabil este accesibil unui absolvent."
   },
   {
     "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
@@ -65,29 +101,47 @@
     "date": "2026-11-17T10:33:26Z",
     "status": "tested",
     "tags": [
-      "analiza mediu",
-      "calitate mediu"
+      "monitorizare mediu",
+      "conformitate"
     ],
-    "matchPercentage": 88,
-    "reason": "Analistul Mediu/Calitate realizează analiză și interpretare de date de mediu, potrivit pentru entry-level."
+    "matchPercentage": 85,
+    "reason": "Analist mediu/calitate vizează monitorizarea calității mediului și conformitatea, potrivit pentru nivel junior/mid."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437176",
-    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA IRCEM",
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
     "location": [
-      "CLUJ-NAPOCA",
+      "Ramnicu Valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
+    "date": "2026-11-17T09:53:17Z",
+    "status": "tested",
     "tags": [
-      "monitorizare mediu",
-      "biodiversitate"
+      "management dezastre",
+      "legislație mediu"
     ],
-    "matchPercentage": 88,
-    "reason": "Cercetare în ecologie cu monitorizarea și evaluarea factorilor de mediu (apă, aer, sol, biodiversitate), fără experiență."
+    "matchPercentage": 85,
+    "reason": "Specialist SSM, situații de urgență și mediu acoperă managementul riscurilor și al dezastrelor, relevant pentru un absolvent."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:00:16Z",
+    "status": "tested",
+    "tags": [
+      "conformitate",
+      "legislație mediu"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rolul de responsabil de mediu implică direct conformitatea și legislația de mediu, accesibil unui absolvent."
   },
   {
     "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
@@ -104,134 +158,8 @@
       "conformitate",
       "legislație mediu"
     ],
-    "matchPercentage": 85,
-    "reason": "Rolul de responsabil de mediu implică direct conformitatea și aplicarea legislației de mediu, la nivel specialist junior/mid."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
-    "title": "Responsabil activitati monitorizare Dunare",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:52:40Z",
-    "status": "tested",
-    "tags": [
-      "monitorizare mediu",
-      "calitatea apei"
-    ],
-    "matchPercentage": 85,
-    "reason": "Activitate de monitorizare a calității mediului pe Dunăre, direct în domeniul de specialitate și la nivel de absolvent."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444178",
-    "title": "Inginer in gestionarea integrata a deseurilor municipale/industriale",
-    "company": "METROREX SA",
-    "location": [
-      "BUCURESTI SECTORUL 1",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "management deșeuri",
-      "economie circulară"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer în gestionarea integrată a deșeurilor municipale/industriale, domeniu direct și sub 3 ani experiență."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
-    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
-    "company": "VIVANI SALUBRITATE SA",
-    "location": [
-      "SLOBOZIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
-    "tags": [
-      "management deșeuri",
-      "tratarea deșeurilor"
-    ],
-    "matchPercentage": 82,
-    "reason": "Specialist în managementul deșeurilor, domeniu direct și experiență sub 3 ani."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-tehnolog-in-protectia-mediului/5543",
-    "title": "Inginer tehnolog în protecția mediului",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:04:39Z",
-    "status": "tested",
-    "tags": [
-      "protecția mediului",
-      "tehnologii mediu"
-    ],
     "matchPercentage": 80,
-    "reason": "Inginer tehnolog în protecția mediului, rol direct în domeniu."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3442281",
-    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA IRCEM",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "economie circulară",
-      "dezvoltare durabilă"
-    ],
-    "matchPercentage": 78,
-    "reason": "Cercetare în ecologie și protecția mediului cu accent pe economie circulară și durabilitate, fără experiență cerută."
-  },
-  {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:27:04Z",
-    "status": "tested",
-    "tags": [
-      "GIS",
-      "canalizare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Responsabil GIS în departamentul tehnic al unei companii de apă, combinând GIS cu sistemele de alimentare cu apă și canalizare, la nivel mid."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
-    "location": [
-      "Ramnicu Valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:53:17Z",
-    "status": "tested",
-    "tags": [
-      "management dezastre",
-      "conformitate"
-    ],
-    "matchPercentage": 72,
-    "reason": "Componenta de mediu și situații de urgență folosește competențe de conformitate și management al dezastrelor, la nivel de specialist."
+    "reason": "Anunț identic cu cel de la id 66, responsabil de mediu cu sarcini de conformitate și reglementări."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3427605",
@@ -245,11 +173,65 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "protecția mediului",
+      "protecție mediu",
       "monitorizare"
     ],
+    "matchPercentage": 80,
+    "reason": "Tehnician în protecția mediului, nivel entry-level, direct în gestionarea și protecția mediului."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-proiectant-sisteme-fotovoltaice/2565",
+    "title": "Inginer Proiectant Sisteme Fotovoltaice",
+    "company": "GENERAL ELECTRO PROEXIM SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:26:16Z",
+    "status": "tested",
+    "tags": [
+      "energie regenerabilă",
+      "eficiență energetică"
+    ],
     "matchPercentage": 70,
-    "reason": "Tehnician ecolog în protecția mediului, nivel entry și domeniu relevant."
+    "reason": "Proiectarea sistemelor fotovoltaice valorifică direct competențele de surse regenerabile și eficiență energetică."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-sisteme-fotovoltaice-40",
+    "title": "Inginer sisteme fotovoltaice",
+    "company": "EARTHLINK CONSULTING COMPANY SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:19:44Z",
+    "status": "tested",
+    "tags": [
+      "energie regenerabilă",
+      "eficiență energetică"
+    ],
+    "matchPercentage": 70,
+    "reason": "Ingineria sistemelor fotovoltaice corespunde competențelor de energie regenerabilă și eficiență energetică."
+  },
+  {
+    "url": "https://www.p-a.ro/monitorizare/",
+    "title": "Inginer monitorizare",
+    "company": "POPP &amp; ASOCIATII SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:59:39Z",
+    "status": "tested",
+    "tags": [
+      "rapoarte monitorizare",
+      "interpretare date"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer monitorizare la absolvent, cu interpretare de măsurători și rapoarte de monitorizare, dar orientare geotehnică și nu de calitate a mediului."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100049",
@@ -267,7 +249,7 @@
       "analiză spațială"
     ],
     "matchPercentage": 65,
-    "reason": "Dezvoltator GIS cu sarcini de aplicații, baze de date spațiale și web mapping, nivel entry/mid, domeniu parțial relevant prin competența GIS."
+    "reason": "Dezvoltarea aplicațiilor GIS și a modelelor de date spațiale folosește direct competența GIS, iar postul nu cere nivel senior."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100050",
@@ -285,42 +267,6 @@
       "analiză spațială"
     ],
     "matchPercentage": 65,
-    "reason": "Dezvoltator GIS pe aplicații și date spațiale, nivel developer adecvat, domeniu parțial prin competența GIS."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-proiectant-sisteme-fotovoltaice/2565",
-    "title": "Inginer Proiectant Sisteme Fotovoltaice",
-    "company": "GENERAL ELECTRO PROEXIM SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "surse regenerabile",
-      "eficiență energetică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea sistemelor fotovoltaice folosește direct competența privind sursele regenerabile, iar titlul nu indică un nivel senior."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-sisteme-fotovoltaice-40",
-    "title": "Inginer sisteme fotovoltaice",
-    "company": "EARTHLINK CONSULTING COMPANY SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:19:44Z",
-    "status": "tested",
-    "tags": [
-      "surse regenerabile",
-      "eficiență energetică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rolul de inginer sisteme fotovoltaice valorifică cunoștințele de energie regenerabilă și nu cere experiență îndelungată."
+    "reason": "Lucrul cu platforme GIS și baze de date spațiale valorifică direct competența GIS, fără cerință de senioriat."
   }
 ]
