@@ -1,165 +1,39 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444178",
-    "title": "Inginer in gestionarea integrata a deseurilor municipale/industriale",
-    "company": "METROREX SA",
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
     "location": [
-      "BUCURESTI SECTORUL 1",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "gestionarea deșeurilor",
-      "economie circulară"
-    ],
-    "matchPercentage": 95,
-    "reason": "Gestionarea integrată a deșeurilor municipale și industriale folosește direct competențele de management al deșeurilor și economie circulară, cu experiență sub 3 ani."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
-    "title": "AUDITOR DE MEDIU",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
-    "location": [
-      "BRASOV",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T12:27:04Z",
     "status": "tested",
     "tags": [
-      "audit mediu",
-      "conformitate"
+      "GIS",
+      "Canalizare"
     ],
-    "matchPercentage": 93,
-    "reason": "Auditor de mediu cu studii superioare și sub 3 ani experiență, potrivire directă cu auditul și conformitatea de mediu."
+    "matchPercentage": 65,
+    "reason": "GIS în departamentul tehnic al unei companii de apă, combină analiza spațială cu sistemele de alimentare cu apă și canalizare."
   },
   {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "LAJEDO SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:21:40Z",
-    "status": "tested",
-    "tags": [
-      "analiză mediu",
-      "prelevare probe"
-    ],
-    "matchPercentage": 92,
-    "reason": "Tehnician analize de mediu: prelevarea probelor și analiza în laborator, nivel entry-level."
-  },
-  {
-    "url": "https://makitajobs.ro/responsabil-mediu/",
-    "title": "Responsabil Mediu",
-    "company": "MAKITA ROMANIA SRL",
-    "location": [
-      "Ilfov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:08:54Z",
-    "status": "tested",
-    "tags": [
-      "legislație mediu",
-      "management deșeuri"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol de responsabil de mediu cu sarcini directe de conformitate, raportări către APM, gestionarea deșeurilor și audituri, la nivel de specialist."
-  },
-  {
-    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
-    "title": "Analyst Mediu/Calitate",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:33:26Z",
-    "status": "tested",
-    "tags": [
-      "analiză mediu",
-      "control calitate"
-    ],
-    "matchPercentage": 85,
-    "reason": "Analist mediu/calitate la nivel junior, cu sarcini directe de analiză și control al calității mediului."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
-    "title": "Responsabil activitati monitorizare Dunare",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "url": "https://multijobs.ro/job/inginer-proiectant-sisteme-fotovoltaice/2565",
+    "title": "Inginer Proiectant Sisteme Fotovoltaice",
+    "company": "GENERAL ELECTRO PROEXIM SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:52:40Z",
+    "date": "2026-11-17T15:26:16Z",
     "status": "tested",
     "tags": [
-      "monitorizare mediu",
-      "interpretare date"
+      "surse regenerabile",
+      "eficiență energetică"
     ],
-    "matchPercentage": 85,
-    "reason": "Monitorizarea Dunării în cadrul institutului de cercetare pentru protecția mediului folosește direct competențele de monitorizare a apei și interpretare a datelor, fără cerințe de experiență îndelungată."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
-    "location": [
-      "Ramnicu Valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:53:17Z",
-    "status": "tested",
-    "tags": [
-      "siguranță mediu",
-      "management riscuri"
-    ],
-    "matchPercentage": 82,
-    "reason": "Rol SSM/SU/Mediu care utilizează direct siguranța mediului și managementul riscurilor, fără cerințe senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3427605",
-    "title": "TEHNICIAN ÎN PROTECTIA MEDIULUI (TEHNICIAN ECOLOG)",
-    "company": "LAJEDO SRL",
-    "location": [
-      "PLOIESTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "protecție mediu",
-      "monitorizare mediu"
-    ],
-    "matchPercentage": 80,
-    "reason": "Tehnicianul ecolog activează direct în protecția mediului, iar nivelul de studii și experiența sub 3 ani corespund unui început de carieră."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
-    "title": "Specialist Managementul Energiei",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T07:39:11Z",
-    "status": "tested",
-    "tags": [
-      "eficiență energetică",
-      "surse regenerabile"
-    ],
-    "matchPercentage": 80,
-    "reason": "Managementul energiei într-o companie industrială corespunde direct competenței de eficiență energetică și surse regenerabile, la nivel de specialist."
+    "matchPercentage": 65,
+    "reason": "Proiectarea sistemelor fotovoltaice aplică parțial competența de surse regenerabile, iar titlul nu impune experiență îndelungată."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-sisteme-fotovoltaice-40",
@@ -176,43 +50,7 @@
       "surse regenerabile",
       "eficiență energetică"
     ],
-    "matchPercentage": 80,
-    "reason": "Poziția de inginer sisteme fotovoltaice folosește direct competența de eficiență energetică și surse regenerabile, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:00:16Z",
-    "status": "tested",
-    "tags": [
-      "legislație mediu",
-      "monitorizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Poziție de responsabil de mediu, domeniu direct relevant, dar cu detalii limitate privind nivelul și sarcinile."
-  },
-  {
-    "url": "https://www.p-a.ro/monitorizare/",
-    "title": "Inginer monitorizare",
-    "company": "POPP &amp; ASOCIATII SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T08:59:39Z",
-    "status": "tested",
-    "tags": [
-      "rapoarte monitorizare",
-      "interpretare date"
-    ],
     "matchPercentage": 62,
-    "reason": "Procesarea măsurătorilor și întocmirea rapoartelor de monitorizare se suprapun parțial cu competențele mele, dar domeniul este predominant geotehnic și de construcții."
+    "reason": "Rolul de inginer sisteme fotovoltaice folosește competențe de energie regenerabilă, dar este mai degrabă inginerie electrică decât mediu."
   }
 ]
