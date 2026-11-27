@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
-    "title": "AUDITOR DE MEDIU",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
-    "location": [
-      "BRASOV",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "audit mediu",
-      "conformitate"
-    ],
-    "matchPercentage": 95,
-    "reason": "Auditul de mediu corespunde direct competenței de audit și conformitate, iar experiența cerută este sub 3 ani."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "LAJEDO SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:21:40Z",
-    "status": "tested",
-    "tags": [
-      "prelevare probe",
-      "analiză laborator"
-    ],
-    "matchPercentage": 92,
-    "reason": "Tehnicianul analize de mediu efectuează prelevarea probelor și analiza lor în laborator, competențe directe la nivel entry-level."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3437176",
     "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
     "company": "ASOCIATIA IRCEM",
@@ -47,29 +11,29 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "monitorizare",
-      "biodiversitate"
+      "monitorizare mediu",
+      "analiză date"
     ],
     "matchPercentage": 92,
-    "reason": "Cercetare directă în ecologie și biodiversitate, monitorizarea apei, aerului și solului și analiza datelor de mediu, fără experiență."
+    "reason": "Monitorează calitatea apei, aerului, solului și biodiversității și analizează date de mediu, la nivel de master fără experiență."
   },
   {
-    "url": "https://makitajobs.ro/responsabil-mediu/",
-    "title": "Responsabil Mediu",
-    "company": "MAKITA ROMANIA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
+    "title": "AUDITOR DE MEDIU",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
     "location": [
-      "Ilfov",
+      "BRASOV",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:08:54Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "legislație mediu",
-      "audit mediu"
+      "audit de mediu",
+      "conformitate"
     ],
-    "matchPercentage": 88,
-    "reason": "Atribuțiile vizează direct conformarea la legislația de mediu, raportările către APM, gestionarea deșeurilor și auditurile ISO 14001, la nivel de specialist fără cerințe senior."
+    "matchPercentage": 90,
+    "reason": "Auditor de mediu cu sub 3 ani experiență și studii superioare, potrivire directă cu auditul și conformitatea de mediu."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
@@ -84,10 +48,10 @@
     "status": "verified",
     "tags": [
       "managementul deșeurilor",
-      "economia circulară"
+      "trasabilitatea"
     ],
-    "matchPercentage": 88,
-    "reason": "Rol de specialist în managementul deșeurilor, potrivit profilului de mediu și nivelului de experiență sub 3 ani."
+    "matchPercentage": 90,
+    "reason": "Poziția de specialist în managementul deșeurilor cere studii superioare și sub 3 ani experiență, folosind direct competențele de gestionare a deșeurilor și trasabilitate a fluxurilor."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3442281",
@@ -102,46 +66,46 @@
     "status": "verified",
     "tags": [
       "economie circulară",
-      "sustenabilitate"
+      "dezvoltare durabilă"
     ],
-    "matchPercentage": 86,
-    "reason": "Cercetare în economia mediului, economie circulară și dezvoltare durabilă, fără experiență profesională anterioară."
+    "matchPercentage": 88,
+    "reason": "Cercetare în economie circulară, eficiența resurselor și dezvoltare durabilă, cu 0 ani experiență și studii de master."
   },
   {
-    "url": "https://www.p-a.ro/monitorizare/",
-    "title": "Inginer monitorizare",
-    "company": "POPP &amp; ASOCIATII SRL",
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
     "location": [
-      "Bucuresti",
+      "Buzau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T08:59:39Z",
+    "date": "2026-11-17T12:27:04Z",
     "status": "tested",
     "tags": [
-      "monitorizare",
-      "rapoarte"
-    ],
-    "matchPercentage": 84,
-    "reason": "Procesare și interpretare de măsurători, coordonare de lucrări în teren și întocmirea rapoartelor de monitorizare, la nivel de absolvent."
-  },
-  {
-    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
-    "title": "Analyst Mediu/Calitate",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:33:26Z",
-    "status": "tested",
-    "tags": [
-      "analiză mediu",
-      "conformitate"
+      "GIS",
+      "apă"
     ],
     "matchPercentage": 82,
-    "reason": "Analistul mediu/calitate folosește direct analiza datelor de mediu și evaluarea conformității, la nivel entry/mid."
+    "reason": "Responsabil GIS la o companie de apă, folosește direct GIS și sisteme de alimentare cu apă și canalizare, la nivel adecvat."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
+    "location": [
+      "Ramnicu Valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:53:17Z",
+    "status": "tested",
+    "tags": [
+      "riscuri mediu",
+      "management dezastre"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rolul de specialist SSM, situații de urgență și mediu folosește direct competențele de siguranță, risc și managementul dezastrelor, la nivel mid."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-sisteme-fotovoltaice-40",
@@ -158,116 +122,8 @@
       "surse regenerabile",
       "eficiență energetică"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginer sisteme fotovoltaice se potrivește direct cu competențele de eficiență energetică și surse regenerabile."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:00:16Z",
-    "status": "tested",
-    "tags": [
-      "legislație mediu",
-      "conformitate"
-    ],
-    "matchPercentage": 80,
-    "reason": "Titlul de responsabil de mediu indică atribuții de protecție și conformitate a mediului, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:55:03Z",
-    "status": "tested",
-    "tags": [
-      "legislație mediu",
-      "conformitate"
-    ],
-    "matchPercentage": 80,
-    "reason": "Titlul de responsabil de mediu indică atribuții de protecție și conformitate a mediului, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
-    "location": [
-      "Ramnicu Valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:53:17Z",
-    "status": "tested",
-    "tags": [
-      "riscuri mediu",
-      "management urgențe"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rolul acoperă mediul, situațiile de urgență și evaluarea riscurilor, competențe directe la nivel de specialist."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3456682",
-    "title": "INGINER CONSTRUCTII HIDROTEHNICE",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:58:12Z",
-    "status": "scraped",
-    "tags": [
-      "canalizare",
-      "epurare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Inginer construcții hidrotehnice fără experiență, cu sarcini apropiate de proiectarea sistemelor de apă și canalizare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447043",
-    "title": "INGINER CONSTRUCTII HIDROTEHNICE",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:58:12Z",
-    "status": "scraped",
-    "tags": [
-      "canalizare",
-      "epurare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Inginer construcții hidrotehnice fără experiență, cu sarcini apropiate de proiectarea sistemelor de apă și canalizare."
-  },
-  {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:27:04Z",
-    "status": "tested",
-    "tags": [
-      "GIS",
-      "canalizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Responsabilul GIS de la compania de apa combina analiza spatiala cu sistemul de alimentare cu apa si canalizare, la nivel de specialist."
+    "matchPercentage": 78,
+    "reason": "Sistemele fotovoltaice corespund direct competenței de surse regenerabile, iar nivelul nu e senior."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
@@ -281,44 +137,27 @@
     "date": "2026-11-17T07:39:11Z",
     "status": "tested",
     "tags": [
-      "eficiența energetică"
+      "eficiență energetică"
     ],
-    "matchPercentage": 66,
-    "reason": "Specialist în managementul energiei la o companie industrială, domeniu adiacent eficienței energetice și la nivel acceptabil pentru junior/mid."
+    "matchPercentage": 68,
+    "reason": "Managementul energiei în industrie corespunde competenței de eficiență energetică și surse regenerabile, la nivel de specialist."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100049",
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100050",
     "title": "GIS Developer",
     "company": "CAPGEMINI SERVICES ROMANIA SRL",
     "location": [
-      "București",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:06:06Z",
+    "date": "2026-11-17T11:43:19Z",
     "status": "tested",
     "tags": [
       "GIS",
-      "analiză spațială"
+      "cartografie"
     ],
-    "matchPercentage": 66,
-    "reason": "Dezvoltarea de aplicatii si baze de date GIS foloseste direct competentele de GIS si analiza spatiala, la nivel entry/mid."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3427605",
-    "title": "TEHNICIAN ÎN PROTECTIA MEDIULUI (TEHNICIAN ECOLOG)",
-    "company": "LAJEDO SRL",
-    "location": [
-      "PLOIESTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "protecția mediului"
-    ],
-    "matchPercentage": 65,
-    "reason": "Poziție de tehnician ecolog în protecția mediului cu experiență sub 3 ani, deși descrierea sarcinilor specifică lipsesc."
+    "matchPercentage": 68,
+    "reason": "Folosește direct GIS-ul și analiza spațială din competențe, deși sarcina principală e dezvoltare software."
   }
 ]
