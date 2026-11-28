@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3437176",
-    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA IRCEM",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "monitorizare mediu",
-      "analiză date"
-    ],
-    "matchPercentage": 92,
-    "reason": "Monitorează calitatea apei, aerului, solului și biodiversității și analizează date de mediu, la nivel de master fără experiență."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
     "title": "AUDITOR DE MEDIU",
     "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
@@ -29,65 +11,11 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "audit de mediu",
+      "audit mediu",
       "conformitate"
     ],
     "matchPercentage": 90,
-    "reason": "Auditor de mediu cu sub 3 ani experiență și studii superioare, potrivire directă cu auditul și conformitatea de mediu."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
-    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
-    "company": "VIVANI SALUBRITATE SA",
-    "location": [
-      "SLOBOZIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
-    "tags": [
-      "managementul deșeurilor",
-      "trasabilitatea"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziția de specialist în managementul deșeurilor cere studii superioare și sub 3 ani experiență, folosind direct competențele de gestionare a deșeurilor și trasabilitate a fluxurilor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3442281",
-    "title": "CERCETATOR ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA IRCEM",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "economie circulară",
-      "dezvoltare durabilă"
-    ],
-    "matchPercentage": 88,
-    "reason": "Cercetare în economie circulară, eficiența resurselor și dezvoltare durabilă, cu 0 ani experiență și studii de master."
-  },
-  {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:27:04Z",
-    "status": "tested",
-    "tags": [
-      "GIS",
-      "apă"
-    ],
-    "matchPercentage": 82,
-    "reason": "Responsabil GIS la o companie de apă, folosește direct GIS și sisteme de alimentare cu apă și canalizare, la nivel adecvat."
+    "reason": "Auditor de mediu cu sub 3 ani experiență și studii superioare corespunde exact competențelor de audit și conformitate."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
@@ -101,11 +29,11 @@
     "date": "2026-11-17T09:53:17Z",
     "status": "tested",
     "tags": [
-      "riscuri mediu",
-      "management dezastre"
+      "legislație mediu",
+      "riscuri mediu"
     ],
     "matchPercentage": 80,
-    "reason": "Rolul de specialist SSM, situații de urgență și mediu folosește direct competențele de siguranță, risc și managementul dezastrelor, la nivel mid."
+    "reason": "Rolul de specialist SSM, situații de urgență și mediu folosește direct legislația de mediu și evaluarea riscurilor, la nivel entry/mid."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-sisteme-fotovoltaice-40",
@@ -119,28 +47,11 @@
     "date": "2026-11-17T15:19:44Z",
     "status": "tested",
     "tags": [
-      "surse regenerabile",
+      "energie regenerabilă",
       "eficiență energetică"
     ],
-    "matchPercentage": 78,
-    "reason": "Sistemele fotovoltaice corespund direct competenței de surse regenerabile, iar nivelul nu e senior."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
-    "title": "Specialist Managementul Energiei",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T07:39:11Z",
-    "status": "tested",
-    "tags": [
-      "eficiență energetică"
-    ],
-    "matchPercentage": 68,
-    "reason": "Managementul energiei în industrie corespunde competenței de eficiență energetică și surse regenerabile, la nivel de specialist."
+    "matchPercentage": 70,
+    "reason": "Rolul de inginer în sisteme fotovoltaice folosește direct competențele de surse regenerabile și eficiență energetică, fără cerințe de nivel senior."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/gis-developer/100050",
@@ -155,9 +66,9 @@
     "status": "tested",
     "tags": [
       "GIS",
-      "cartografie"
+      "baze de date"
     ],
-    "matchPercentage": 68,
-    "reason": "Folosește direct GIS-ul și analiza spațială din competențe, deși sarcina principală e dezvoltare software."
+    "matchPercentage": 65,
+    "reason": "Domeniul geospațial se suprapune parțial cu competențele GIS, dar sarcinile sunt predominant de dezvoltare software (API-uri, teste, integrări), nu analiză de mediu."
   }
 ]
